@@ -14,3 +14,6 @@ function oddOrEven(array) {
  }
 
 console.log(oddOrEven([1, 2, 3, 4, 5]))
+
+let myArr = "Hello World"
+console.log(myArr.split(" "))
