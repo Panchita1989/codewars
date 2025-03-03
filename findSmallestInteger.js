@@ -1,4 +1,4 @@
 function findSmallestInt(arr){
-    let min = Math.min(arr)
+    let min = Math.min(...arr)
     return min
 }
