@@ -1,0 +1,1 @@
+constZeroFuel = (distanceToPump, mpg, fuelLeft) => fuelLeft * mpg >= distanceToPump ? true : false
