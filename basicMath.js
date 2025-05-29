@@ -3,3 +3,6 @@ function calculate(str){
     let result = eval(expression)
     return result.toString()
 }
+
+
+
