@@ -1,0 +1,1 @@
+const combineNames = ((fistN, lastN)=> `${fistN} ${lastN}`)
