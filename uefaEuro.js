@@ -6,3 +6,4 @@ function uefaEuro(teams, scores){
         return `At match ${teams[0]} - ${teams[1]}, ${winner} won!`
     }
 }
+
